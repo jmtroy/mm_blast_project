@@ -1,0 +1,1 @@
+chrom.NSCAN	chromStart.NSCAN	chromEnd.NSCAN	name.NSCAN	score.NSCAN	strand.NSCAN	data_source.NSCAN

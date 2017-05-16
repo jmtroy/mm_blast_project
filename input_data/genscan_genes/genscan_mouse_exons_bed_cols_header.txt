@@ -1,0 +1,1 @@
+chrom.GenscanExon	chromStart.GenscanExon	chromEnd.GenscanExon	name.GenscanExon	score.GenscanExon	strand.GenscanExon	data_source.GenscanExon
